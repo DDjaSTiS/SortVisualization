@@ -1,5 +1,5 @@
-# SortVisualization
-Technology: Winforms
+# Sort Visualization
+Technology: Windows Forms
 ## Description
 Visualization of different sorting algorithms, such as:
 1. Bubble Sort
